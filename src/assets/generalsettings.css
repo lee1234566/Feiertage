@@ -1,0 +1,12 @@
+v-header{
+    height: 100vh;
+    width: 100%;
+}
+
+nav{
+    background-color:white;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
