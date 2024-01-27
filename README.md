@@ -1,3 +1,13 @@
+GRABO WS 23/24
+FEIERTGSPLANER
+
+Emily Rapp - 35192, Paula Streit - 35171, Annelie Pflüger - 35196
+
+Link zur Anwendung in der Cloud:
+
+
+
+
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
